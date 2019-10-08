@@ -1,0 +1,16 @@
+users:
+- name: Jack Burton
+  active: true
+  email: jack.burton@porkchopexpress.com
+  slack: jack-burton-me
+  github: jburton
+- name: Gracie Law
+  active: true
+  email: gracie.law@porkchopexpress.com
+  slack: girl-with-the-green-eyes
+  github: glaw
+- name: David Lo Pan
+  active: false
+  email: david.lo.pan@wingkongexchange.cn
+  slack: lo-pan
+  github: dlpan
